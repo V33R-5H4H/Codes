@@ -1,0 +1,9 @@
+Receipt:
+Customer Name: Test
+Customer Phone: 1234567890
+Crocin X 111 = Rs. 13320
+Azithromxcin X 2 = Rs. 140
+Glucose X 11 = Rs. 1980
+Total = Rs. 15440
+
+Thank you for shopping with MedShop!

@@ -1,0 +1,13 @@
+Practical 0
+1. WAP to print variable, address of variable and pointer to pointer variable.
+2. WAP to swap value of two variables using pointer.
+3. WAP to calculate sum of two numbers using pointer.
+4. WAP to calculate sum of elements of an array using pointer.
+5. WAP to allocate memory using malloc.
+6. WAP to allocate memory using calloc.
+7. WAP to sort numbers using malloc.
+8. WAP to find square of numbers using calloc.
+9. WAP to add/remove item from a list using realloc.
+10. WAP to display content of a given file.
+11. WAP to copy a given file.
+12. WAP to count lines, words, tabs and characters.

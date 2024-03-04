@@ -1,0 +1,8 @@
+Receipt:
+Customer Name: Veer
+Customer Phone: 2345678901
+Diclofenac X 30 = Rs. 3900
+Azithromxcin X 40 = Rs. 2800
+Total = Rs. 6700
+
+Thank you for shopping with MedShop!
