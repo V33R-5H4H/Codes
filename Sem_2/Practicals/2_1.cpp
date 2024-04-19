@@ -15,6 +15,5 @@ int main() {
     swap(a, b);
     swap(a, c);
     swap(b, c);
-    cout << "The largest of the three numbers is: " << a << " " << b << " " << c << endl;
-    return 0;
+    cout << "The largest of the three numbers is: " << a << endl;
 }

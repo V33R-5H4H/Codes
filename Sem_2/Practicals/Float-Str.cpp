@@ -8,7 +8,6 @@ int main()
     cin>>x;
     string str;
     str=to_string(x);
-    //cout<<str<<endl;
     for (i=0;str[i]!='.';i++){
         s=i+1;
     }

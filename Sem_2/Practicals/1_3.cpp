@@ -65,7 +65,7 @@ using namespace std;
 class String {
     public:
     int l1=0,l2=0,len=0;
-    char *str,v='0';
+    char *str;
     string c,str1,str2;
     int str_len(string str) {
         while (str[len]!='\0') {

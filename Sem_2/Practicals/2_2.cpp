@@ -5,8 +5,7 @@ using namespace std;
 #define Pi 3.14;
 class area_t{
   public:
-  float h,b;
-  float a;
+  float h,b,a;
   float a_tri(float h,float b){
     a=0.5*h*b;
     cout<<"Area of Triangle is : "<<a<<endl;
@@ -14,18 +13,15 @@ class area_t{
 };
 class area_r{
   public:
-  float h,b;
-  float a;
+  float h,b,a;
   float a_rect(float h,float b){
     a=h*b;
     cout<<"Area of rectangle is : "<<a<<endl;
   }
-  
 };
 class area_c{
   public:
-  float h,b;
-  float a;
+  float h,b,a;
   float a_cir(float h){
     a=pow(h,2)*Pi;
     cout<<"Area of  Circle is : "<<a<<endl;
