@@ -1,0 +1,1 @@
+//Write a program to use manipulators setw, setiosflags and setprecision for formatted output.

@@ -1,0 +1,1 @@
+//Write a program to create files with constructor  function, open function, and using various file mode parameters
