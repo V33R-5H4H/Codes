@@ -1,7 +1,6 @@
 //Write a program to demonstrate the use of arrays within a class. Create and manage an inventory system.
 #include<iostream>
 using namespace std;
-
 class Test {
     public:
     int x,y,z,id[5],no[5];
@@ -16,7 +15,6 @@ class Test {
         }
     }
 };
-
 int main()
 {
    Test t;
@@ -26,7 +24,7 @@ int main()
         cout<<"Enter Quantity: ";
         cin>>t.z;
         t.input(i,t.y,t.z);
-   }
+    }
    t.display();
    return 0;
 }

@@ -30,7 +30,6 @@ public:
         cout << "Total Marks: " << totalMarks << endl;
     }
 };
-
 int main() {
     Student student(101);
     student.displayStudent();
@@ -38,6 +37,4 @@ int main() {
     test.displayTestMarks();
     Result result(101, 80, 75);
     result.displayResult();
-
-    return 0;
 }

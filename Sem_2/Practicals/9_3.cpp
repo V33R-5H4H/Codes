@@ -1,6 +1,6 @@
+//Write a program to overload the unary – operator for a suitable class.
 #include <iostream>
 using namespace std;
-
 class MyNumber {
 public:
     int value;

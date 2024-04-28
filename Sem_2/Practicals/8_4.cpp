@@ -13,7 +13,6 @@ class test{
         y=obj.y;
     }
 };
-
 int main(){
     int m,n;
     cout<<"Enter Num 1: ";

@@ -4,14 +4,12 @@
 #include<iostream>
 #include<math.h>
 using namespace std;
-
 double power(double m, int n) {
     return pow(m,n);
 }
 int power(int m, int n) {
     return pow(m,n);
 }
-
 int main() {    
     double m;
     int n,x;

@@ -1,8 +1,6 @@
 //Design a class Polar which describes a point in the plane using polar coordinates radius and angle. Use overloaded + operator to add two polar objects
-
 #include <iostream>
 using namespace std;
-
 class Polar {
     public:
     double radius;
@@ -15,7 +13,6 @@ class Polar {
         return Polar(radius + p.radius, angle + p.angle);
     }
 };
-
 int main() {
     Polar P1(3,45), P2(6,90);
     cout << "P1=("<<P1.radius<<","<<P1.angle<<")"<<endl;

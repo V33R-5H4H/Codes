@@ -16,8 +16,7 @@ class Array{
         return arr[index];
     }
 };
-main()
-{
+main(){
     Array obj1(5);
     cout << "Enter elements of array : ";
     for (int i = 0; i < 5; i++){
